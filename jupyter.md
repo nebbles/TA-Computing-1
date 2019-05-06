@@ -34,7 +34,7 @@ With Python now installed, first upgrade the Python package manager (called *pip
 
 > python3 -m pip install --upgrade pip
 
-Then, install Jupyter with pip:
+Then, install [Jupyter](https://jupyter.org/install) with pip by running this command:
 
 > python3 -m pip install jupyter
 
